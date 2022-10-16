@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @FelipeSynced
 - 👨‍💻 Interested in Web Development
 - 👓 Learning JavaScript
 
